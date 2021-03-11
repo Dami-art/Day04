@@ -1,8 +1,8 @@
 function main (numOne, numTwo){
 //Only change code bellow this line
-var myquotient = numOne / numTwo
+var myQuotient = numOne / numTwo
 //Only change code above this line
- return myquotient;
+ return myQuotient;
     
 }
 
